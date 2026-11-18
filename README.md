@@ -4,7 +4,9 @@ The Android app of the Association Platform: membership, elections, polls, meeti
 
 ## Download
 
-**[Download the newest version](https://github.com/assocplatform/association-app/releases/latest/download/association-app.apk)** (APK file, about 54 MB, Android 7.0 or newer)
+**[Download the newest version](https://github.com/assocplatform/association-app/releases/latest/download/association-app.apk)** (APK file, about 20 MB, Android 7.0 or newer)
+
+**Older phone?** If your phone says the app is not compatible, download the file ending in `-older-phones.apk` from the newest release on the [Releases](https://github.com/assocplatform/association-app/releases) page instead, and keep using that kind of file for updates.
 
 All versions and what changed: [Releases](https://github.com/assocplatform/association-app/releases)
 
@@ -26,7 +28,7 @@ Use the same account on the website: <https://assocplatform.vercel.app>. You can
 
 ## Check the file (optional)
 
-Each release includes a `.sha256` file with the checksum of the APK.
+Each release includes a `.sha256` file with the checksums of the APK files.
 
 ## Questions
 
