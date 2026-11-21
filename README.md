@@ -1,6 +1,8 @@
 # Association app for Android
 
-The Android app of the Association Platform: membership, elections, polls, meetings, groups and confidential complaints for residents' and employees' associations.
+The Android app of the Association Platform: governance and management for associations, with elections, meetings, decisions and records in one place.
+
+For Resident Welfare Associations, Apartment Owners' Associations and employee and officers' associations: secret-ballot elections, General Body and committee meetings with attendance and quorum, office-bearers and committees, and member services such as notices, polls, documents and confidential complaints.
 
 ## Download
 
